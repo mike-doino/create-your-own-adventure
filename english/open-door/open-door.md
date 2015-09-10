@@ -10,6 +10,6 @@ You see the corn stand up to its full height.
 It must be at least 10 feet tall.
 With a wry smile the corn turns and starts falling on you.
 How could this be happening. Your life flashes before your eyes and you scream. Oh God!!
-Suddenly - [you wake up!](../../wake-up)
+Suddenly - [you wake up!](../wake-up/wake-up.md)
 
 
